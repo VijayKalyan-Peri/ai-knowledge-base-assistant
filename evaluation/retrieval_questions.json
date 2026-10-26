@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question": "When can customers request a return?",
+      "expected_source": "return-policy.md",
+      "expected_contains": "Customers can request a return within 30 days of delivery."
+    },
+    {
+      "question": "What condition must a returned item meet?",
+      "expected_source": "return-policy.md",
+      "expected_contains": "Items must be unused and in their original packaging."
+    },
+    {
+      "question": "How do I start a return?",
+      "expected_source": "return-policy.md",
+      "expected_contains": "contact the support team with their order number"
+    },
+    {
+      "question": "How long do refunds take to process?",
+      "expected_source": "return-policy.md",
+      "expected_contains": "Refunds are usually processed within 5 business days"
+    },
+    {
+      "question": "Can gift cards be returned?",
+      "expected_source": "return-policy.md",
+      "expected_contains": "gift cards cannot be returned"
+    }
+  ]
+}
